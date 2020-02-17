@@ -1,0 +1,10 @@
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\bin\Debug\service.exe.config
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\bin\Debug\service.exe
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\bin\Debug\service.pdb
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\bin\Debug\CSAWeek1-Calculator.dll
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\bin\Debug\CSAWeek1-Calculator.pdb
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\obj\Debug\service.csprojAssemblyReference.cache
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\obj\Debug\service.csproj.CopyComplete
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\obj\Debug\service.exe
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\service\obj\Debug\service.pdb

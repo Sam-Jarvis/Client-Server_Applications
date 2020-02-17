@@ -1,0 +1,6 @@
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\CSAWeek1-Calculator\bin\Debug\CSAWeek1-Calculator.dll
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\CSAWeek1-Calculator\bin\Debug\CSAWeek1-Calculator.pdb
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\CSAWeek1-Calculator\obj\Debug\CSAWeek1-Calculator.csprojAssemblyReference.cache
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\CSAWeek1-Calculator\obj\Debug\CSAWeek1-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\CSAWeek1-Calculator\obj\Debug\CSAWeek1-Calculator.dll
+C:\Users\samja\Documents\GIT\CSA\CSAWeek1-Calculator\CSAWeek1-Calculator\obj\Debug\CSAWeek1-Calculator.pdb
