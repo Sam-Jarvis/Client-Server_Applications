@@ -13,24 +13,18 @@ namespace proxy
 {
     public partial class Form1 : Form
     {
-        Proxy proxy;
-
         public Form1()
         {
             InitializeComponent();
-            
-            // instantiate a proxy to contact the service
-            WSHttpBinding binding = new WSHttpBinding();
-            Uri address = new Uri("http://localhost:8000/calculatorservice");
-            EndpointAddress endpointAddress = new EndpointAddress(address);
-            proxy = new Proxy(binding, endpointAddress);
+            proxy = new CalculatorForm.ServiceReference.CalculatorClient();
         }
+        private CalculatorForm.ServiceReference.CalculatorClient proxy;
 
         private void btnadd_Click(object sender, EventArgs e)
         {
             double number1 = Convert.ToDouble(tbno1.Text);
             double number2 = Convert.ToDouble(tbno2.Text);
-            double answer = proxy.GetCalculatorService().add(number1, number2);
+            double answer = proxy.add(number1, number2);
             tbanswer.Text = answer.ToString();
 
         }
@@ -39,7 +33,7 @@ namespace proxy
         {
             double number1 = Convert.ToDouble(tbno1.Text);
             double number2 = Convert.ToDouble(tbno2.Text);
-            double answer = proxy.GetCalculatorService().subtract(number1, number2);
+            double answer = proxy.subtract(number1, number2);
             tbanswer.Text = answer.ToString();
         }
 
@@ -47,7 +41,7 @@ namespace proxy
         {
             double number1 = Convert.ToDouble(tbno1.Text);
             double number2 = Convert.ToDouble(tbno2.Text);
-            double answer = proxy.GetCalculatorService().multiply(number1, number2);
+            double answer = proxy.multiply(number1, number2);
             tbanswer.Text = answer.ToString();
         }
 
@@ -55,7 +49,7 @@ namespace proxy
         {
             double number1 = Convert.ToDouble(tbno1.Text);
             double number2 = Convert.ToDouble(tbno2.Text);
-            double answer = proxy.GetCalculatorService().divide(number1, number2);
+            double answer = proxy.divide(number1, number2);
             tbanswer.Text = answer.ToString();
         }
     }
