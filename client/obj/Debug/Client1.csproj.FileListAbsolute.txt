@@ -1,0 +1,10 @@
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\bin\Debug\client.exe.config
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\bin\Debug\client.exe
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\bin\Debug\client.pdb
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\obj\Debug\Client1.csprojAssemblyReference.cache
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\obj\Debug\Client1.csproj.GenerateResource.cache
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\obj\Debug\Client1.csproj.CoreCompileInputs.cache
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\obj\Debug\client.exe
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\obj\Debug\client.pdb
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\client\obj\Debug\client.Form1.resources

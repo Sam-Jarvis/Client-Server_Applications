@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="41003b58-5692-4358-935c-22800a6bf822" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/webshopService/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="webshopService.wsdl" MetadataType="Wsdl" ID="d82fd303-537c-4696-939c-095a27304d47" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopService/Service1/mex" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="5fcada75-b90f-456e-ab4a-2e3442b2e40a" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopService/Service1/mex" />
+    <MetadataFile FileName="webshopService.xsd" MetadataType="Schema" ID="bb054c8b-84d9-4b7a-b1c4-2f1f708d9ae1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="fa868f66-a5b9-415f-907f-bec97b3be877" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopService/Service1/mex" />
+    <MetadataFile FileName="webshopService1.xsd" MetadataType="Schema" ID="7c37f9b1-a0f5-4644-ad88-33f264cb94ad" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/webshopService/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,7 @@
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\webshopService\bin\Debug\webshopService.dll.config
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\webshopService\bin\Debug\webshopService.dll
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\webshopService\bin\Debug\webshopService.pdb
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\webshopService\obj\Debug\webshopService.csprojAssemblyReference.cache
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\webshopService\obj\Debug\webshopService.csproj.CoreCompileInputs.cache
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\webshopService\obj\Debug\webshopService.dll
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\webshopService\obj\Debug\webshopService.pdb

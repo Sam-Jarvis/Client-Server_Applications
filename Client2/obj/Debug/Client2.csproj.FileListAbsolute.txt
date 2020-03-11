@@ -1,0 +1,10 @@
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\bin\Debug\Client2.exe.config
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\bin\Debug\Client2.exe
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\bin\Debug\Client2.pdb
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\obj\Debug\Client2.csprojAssemblyReference.cache
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\obj\Debug\Client2.Properties.Resources.resources
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\obj\Debug\Client2.exe
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\obj\Debug\Client2.pdb
+C:\Users\samja\Documents\GIT\CSA\CSA-Webshop\webshopService\Client2\obj\Debug\Client2.Client2Form.resources
